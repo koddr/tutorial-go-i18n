@@ -1,0 +1,8 @@
+[HelloPerson]
+hash = "sha1-5b49bfdad81fedaeefb224b0ffc2acc58b09cff5"
+other = "Hola {{.Name}}"
+
+[MyUnreadEmails]
+hash = "sha1-55687b25cf8ac24dbc9a2e091d4d7f14bc85d90d"
+one = "Tienes {{.PluralCount}} correo no leído"
+other = "Tienes {{.PluralCount}} correos electrónicos sin leer."
