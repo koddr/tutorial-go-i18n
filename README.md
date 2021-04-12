@@ -1,6 +1,6 @@
 # 📖 Tutorial: An easy way to translate your Golang application
 
-👉 The full article is published on **April 13, 2021**, on Dev.to: ...
+👉 The full article is published on **April 13, 2021**, on Dev.to: https://dev.to/koddr/an-easy-way-to-translate-your-golang-application-5ege
 
 ![article preview pic](https://user-images.githubusercontent.com/11155743/114465331-a6088f80-9bef-11eb-9d2f-b677e1d5115a.jpg)
 
