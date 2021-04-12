@@ -17,6 +17,9 @@ make run
 
 ![Screenshot](https://user-images.githubusercontent.com/11155743/114465381-b587d880-9bef-11eb-9e2b-c09cf963ac14.png)
 
+4. Play with other languages (🇪🇸 Español or 🇷🇺 Russian) and `unread` query params.
+5. For JSON view, add `format=json` to the query params.
+
 ## ⚠️ License
 
 MIT &copy; [Vic Shóstak](https://shostak.dev/) & [True web artisans](https://1wa.co/).
